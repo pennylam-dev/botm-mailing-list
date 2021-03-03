@@ -1,2 +1,2 @@
-# startup-mailing
-Start up sign up website
+# botm-mailing-list
+Book of the month mailing list sign up page
